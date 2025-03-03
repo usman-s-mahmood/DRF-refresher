@@ -9,5 +9,6 @@ class PeopleSerializer(serializers.ModelSerializer):
         fields = [
             'id',
             'name',
-            'age'
+            'age',
+            'created_on'
         ]
