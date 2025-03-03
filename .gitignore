@@ -1,0 +1,18 @@
+# virtual envs
+virt/
+venv/
+
+# IDE temps
+.vscode/
+
+# my temps
+misc/
+
+# secrets
+.env
+env.json
+secrets.json
+
+# vim temps
+*.*~
+*.SWP
